@@ -1,17 +1,18 @@
 # .dotfiles
 
-to setup a bash to my need
+To manage my own dot files.
 
 ## usage
 
 If you don't know how to use them, you probably shouldn't.
+
 But you can learn about them on the following sites:
 
 http://www.oliverelliott.org/article/computing/tut_unix/
 
 http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449
 
-I also wrote a bit on it http://frankfuchs.net/articles/12/dotfiles-hooray
+There's also a bit on it here: http://frankfuchs.net/articles/12/dotfiles-hooray
 
 ## content
 
@@ -29,4 +30,3 @@ CLI color profiles (`brainseller.itermcolors` + `brainseller.terminal`)
 
 `bash/bash_settings` for stuff like prompt customization
 
-`osx/set_defaults.sh` for setting up a new mac to my defaults
